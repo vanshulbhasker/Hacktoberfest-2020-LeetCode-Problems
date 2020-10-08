@@ -1,4 +1,9 @@
-Leetcode probelm link - https://leetcode.com/problems/sort-array-by-parity/
+/**
+ * Solution to Sort Array by Parity problem at LeetCode in C++
+ *
+ * author: varougm
+ * ref: https://leetcode.com/problems/sort-array-by-parity/
+ */
 
 class Solution {
 public:
@@ -18,4 +23,3 @@ public:
       return v;  
     }
 };
-contributes by - gouravmajee(varuogm)
