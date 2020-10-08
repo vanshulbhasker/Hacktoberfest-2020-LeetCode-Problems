@@ -1,3 +1,10 @@
+/**
+ * Solution to Reverse Integer at LeetCode in C++ 
+ *
+ * author: harsh1206
+ ** ref: https://leetcode.com/problems/reverse-integer/solution/
+ */
+
 class Solution {
 public:
     int reverse(int x) {
