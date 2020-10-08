@@ -1,4 +1,9 @@
- Leetcode problem link - https://leetcode.com/problems/destination-city/
+/**
+ * Solution to Destination City problem at LeetCode in C++
+ *
+ * author: varougm
+ * ref: https://leetcode.com/problems/destination-city/
+ */
 
 class Solution {
 public:
@@ -25,4 +30,3 @@ public:
         return "";
     }
 };
-contributes by- varougm 
