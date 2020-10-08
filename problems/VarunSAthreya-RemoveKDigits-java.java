@@ -1,7 +1,8 @@
 /**
  * Solution to Remove K Digits at LeetCode in Java
  *
- * author: VarunSAthreya ref: https://leetcode.com/problems/remove-k-digits/
+ * author: VarunSAthreya 
+ * ref: https://leetcode.com/problems/remove-k-digits/
  */
 
 class Solution {
