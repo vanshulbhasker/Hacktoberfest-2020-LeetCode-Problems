@@ -1,0 +1,17 @@
+/**
+ * Solution to Two Sum problem at LeetCode in C#
+ *
+ * author: miikkasaxlund
+ * ref: https://leetcode.com/problems/two-sum/
+ */
+
+public class Solution {
+    public int[] TwoSum(int[] nums, int target) {
+        for (int i = 0; i < nums.Length; i++) {
+            for (int j = i + 1; j < nums.Length; j++) {
+                if (nums[i] + nums[j] == target) return new int[2] { i, j };
+            } 
+        } 
+      return null;
+    }
+}
