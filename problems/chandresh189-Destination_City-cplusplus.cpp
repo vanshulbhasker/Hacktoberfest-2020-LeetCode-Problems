@@ -1,7 +1,7 @@
 //**
 Solution to Destination City at LeetCode in C++
 author: chandresh189
-ref: https: https://leetcode.com/problems/destination-city/
+ref: https://leetcode.com/problems/destination-city/
 
 **/
 
