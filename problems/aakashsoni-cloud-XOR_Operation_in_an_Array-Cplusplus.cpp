@@ -1,3 +1,10 @@
+/**
+ * Solution to XOR Operation in an Arrays at LeetCode in C++
+ *
+ * author: aakash_soni
+ * ref: https://leetcode.com/problems/xor-operation-in-an-array/
+ */
+
 class Solution {
 public:
     int xorOperation(int n, int start) {
