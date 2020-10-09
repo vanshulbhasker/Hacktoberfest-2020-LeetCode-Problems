@@ -1,6 +1,6 @@
 # Hacktoberfest-2020-LeetCode-Problems
 
-This repository is made for those who are looking for a place to make their first Pull Request for the [Hacktoberfest 2020 event](https://hacktoberfest.digitalocean.com/). You can add your own solutions for LeetCode problems found at [https://leetcode.com/problemset/all/](https://leetcode.com/problemset/all/) to this repository.
+This repository is made for those who are looking for a place to make their first Pull Request for the [Hacktoberfest 2020 event](https://hacktoberfest.digitalocean.com/). You can add your own solutions to LeetCode problems found at [https://leetcode.com/problemset/all/](https://leetcode.com/problemset/all/) into this repository.
 
 ## How to contribute
 
