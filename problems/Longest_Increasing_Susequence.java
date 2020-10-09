@@ -1,3 +1,9 @@
+/* Longest Increasing Subsequence. leetcode problem no. 300
+
+author : AnkitaM84
+ref : https://leetcode.com/problems/longest-increasing-subsequence/
+*/
+
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
