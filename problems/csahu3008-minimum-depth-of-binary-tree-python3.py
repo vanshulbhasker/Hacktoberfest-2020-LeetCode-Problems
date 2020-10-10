@@ -1,5 +1,5 @@
 
-#  * Solution to Linked List Cycle at LeetCode in CPP
+#  * Solution to minimum depth of binary tree at leetcode in python3
 #  *
 #  * author: csahu3008
 #  * ref: https://leetcode.com/problems/minimum-depth-of-binary-tree/
