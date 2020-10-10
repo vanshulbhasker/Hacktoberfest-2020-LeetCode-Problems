@@ -2,7 +2,7 @@
  * Solution to Best time to sell stock IV at LeetCode in CPP
  *
  * author: ashima0699
- * ref: https:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+ * ref: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
  */
 class Solution {
 public:
