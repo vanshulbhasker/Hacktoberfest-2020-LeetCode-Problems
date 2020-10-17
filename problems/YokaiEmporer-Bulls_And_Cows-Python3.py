@@ -1,5 +1,5 @@
 /**
- * Solution to <problem-name> at LeetCode in <language>
+ * Solution to Bulls and cows at LeetCode in C++
  *
  * author: YokaiEmporer
  * ref: https://leetcode.com/problems/bulls-and-cows/
