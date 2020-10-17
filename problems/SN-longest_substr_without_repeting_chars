@@ -1,0 +1,40 @@
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+        if(s.length()==0)
+        {
+            return 0;
+        }
+        if(s.length()==1)
+        {
+            return 1;
+        }
+        String arr[]= new String[s.length()];
+        int max=0;
+        
+        for(int i=0;i<s.length()-1;++i){
+            arr[i]= "";
+            String str=""+ s.charAt(i);
+            for(int j=i+1;j<s.length();++j)
+            {
+                if(str.indexOf(s.charAt(j))== -1)
+                {
+                    str= str+ (s.charAt(j)+"");
+                }
+                else
+                {
+                    break;
+                }
+            }
+            arr[i]= str;
+            if(arr[i].length()>max)
+            {
+                max= arr[i].length();
+            }
+            str= null;
+        }
+    
+        
+        return max;
+        
+    }
+}
