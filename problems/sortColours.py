@@ -2,7 +2,7 @@
  * Solution to Sort-Color at LeetCode in Python
  *
  * author: deepakr-28
- * ref: Problem number 75 on leetcode
+ * ref: https://leetcode.com/problems/sort-colors/
 '''
 
 class Solution:
