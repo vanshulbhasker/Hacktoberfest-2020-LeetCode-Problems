@@ -1,0 +1,28 @@
+
+/*
+solution to Bulb Switcher IV (Leetcode 1529)
+author : Vanshul Bhasker
+ref :https://leetcode.com/problems/bulb-switcher-iv/
+*/
+
+
+class Solution {
+public:
+    int minFlips(string target) {
+        int c=0;
+        int i=0;
+        while(target[i]=='0'){
+            i++;
+        }
+        for( i;i<target.size();i++){
+            c++;
+            int j=i+1;
+            while(j<target.size() && target[j]==target[i]){
+                j++;
+            }
+            j--;
+            i=j;
+        }
+        return c;
+    }
+};
