@@ -1,10 +1,10 @@
-/*
-solution to Find Valid Matrix Given Row and Column Sums (Leetcode 1605)
 
-author : Vanshul Bhasker
-ref : https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
-
-*/
+/**
+ * Solution to Find Valid Matrix Given Row and Column Sums at LeetCode in C++
+ *
+ * author: vanshulbhasker
+ * ref: https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+ */
 
 
 class Solution {
