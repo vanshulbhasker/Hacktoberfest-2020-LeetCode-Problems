@@ -1,9 +1,10 @@
-/*
-solution to Minimum Number of Steps to Make Two Strings Anagram(leetcode 1347)
-author: Vanshul Bhasker
-ref : https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+/**
+ * Solution to Minimum Number of Steps to Make Two Strings Anagram at LeetCode in C++
+ *
+ * author: vanshulbhasker
+ * ref: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+ */
 
-*/
 
 class Solution {
 public:
