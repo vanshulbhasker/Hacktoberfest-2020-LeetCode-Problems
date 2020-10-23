@@ -1,9 +1,10 @@
-/*
-solution to Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Leetcode 1414)
-author : Vanshul Bhasker
-ref : https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
-*/
-
+/**
+ * Solution to Find the Minimum Number of Fibonacci Numbers Whose Sum Is K at LeetCode in C++
+ *
+ * author: vanshulbhasker
+ * ref: https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
+ */
+ 
 class Solution {
 public:
     int findMinFibonacciNumbers(int k) {
