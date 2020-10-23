@@ -7,6 +7,31 @@
 
 //Note that you cannot sell a stock before you buy one.
 
+/*
+
+imagine the array as a graph 
+eg : arr= [7, 1, 5, 3, 6, 4]
+
+
+    visualize this as: 
+    
+    x
+    x           x
+    x     x     x
+    x     x     x  x
+    x     x  x  x  x 
+    x     x  x  x  x
+    x  x  x  x  x  x
+    
+    The points of interest are the peaks and valleys in the given graph.
+    We need to find the largest peak(arr[4]) following the smallest valley(arr[1]). 
+    We can maintain two variables - minprice and maxprofit corresponding to the smallest valley and
+    maximum profit (maximum difference between selling price and minprice) obtained so far respectively.
+    
+    the code for the same has been given below :
+*/
+
+
 
 class Solution {
 public:
