@@ -1,10 +1,10 @@
 
-/*
-solution to Bulb Switcher IV (Leetcode 1529)
-author : Vanshul Bhasker
-ref :https://leetcode.com/problems/bulb-switcher-iv/
-*/
-
+/**
+ * Solution to Bulb Switcher IV at LeetCode in C++
+ *
+ * author: vanshulbhasker
+ * ref: https://leetcode.com/problems/bulb-switcher-iv/
+ */
 
 class Solution {
 public:
